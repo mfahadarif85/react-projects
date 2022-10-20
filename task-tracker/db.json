@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "get kids from school",
+      "day": "friday 12:30 pm",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
